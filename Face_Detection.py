@@ -1,4 +1,3 @@
-from numpy.lib.arraypad import _get_edges
 import streamlit as st
 import cv2
 from PIL import Image, ImageEnhance
