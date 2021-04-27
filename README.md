@@ -1,0 +1,1 @@
+# Face Detection Application with Streamlit and Open CV
