@@ -1,5 +1,5 @@
 streamlit
-cv2==3.4.10
+opencv-python==3.4.10
 pillow
 numpy
 os
