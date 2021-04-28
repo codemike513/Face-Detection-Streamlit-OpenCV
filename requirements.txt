@@ -1,4 +1,4 @@
 streamlit
-opencv-python
+opencv-python==3.4.11.39
 pillow
 numpy
